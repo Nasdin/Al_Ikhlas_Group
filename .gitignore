@@ -1,6 +1,7 @@
 client_secrets.json
 credentials.json
 service_account_secrets.json
+accounts.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
