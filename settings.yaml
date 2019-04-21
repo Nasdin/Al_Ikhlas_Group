@@ -1,0 +1,6 @@
+gdrive_folder: https://drive.google.com/drive/u/1/folders/1nUzR1rPHJWjYHcxE-CcaV6p23PDSTUn7
+data_spreadsheet: https://docs.google.com/spreadsheets/d/1r0PtUMOdjD8O4Fb7F6cJq5mTPYiCfcQWK2mxM4C1YVM/
+client_config_backend: file
+client_config_file: client_secrets.json
+get_refresh_token: True
+service_account_file: service_account_secrets.json
